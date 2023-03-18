@@ -1,0 +1,7 @@
+com/carvaluation/pages/HomePage.class
+com/carvaluation/pages/ValuationPage.class
+com/carvaluation/testcases/ValidateCarTest.class
+com/carvaluation/pages/BasePage.class
+com/carvaluation/utils/DataHandler.class
+com/carvaluation/utils/Constants.class
+com/carvaluation/testcases/BaseTest.class
